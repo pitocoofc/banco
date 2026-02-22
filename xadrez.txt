@@ -1,1 +1,20 @@
-Abu
+O xadrez é um jogo de tabuleiro estratégico para duas pessoas, considerado também um esporte mental, disputado em um tabuleiro de 64 casas com 16 peças para cada jogador (rei, rainha, torres, bispos, cavalos e peões). O objetivo principal é dar o "xeque-mate" no rei adversário, bloqueando todas as suas saídas. 
+
+
+
+Pontos-chave sobre o Xadrez:
+
+Origem: Acredita-se que tenha surgido na Índia ou Pérsia há mais de 1500 anos.
+
+Competição: Requer pensamento crítico, estratégia, planejamento, concentração e memória.
+
+Peças: Cada peça tem um movimento único e valor estratégico.
+
+Regras: Envolve regras de movimentação, captura e situações especiais, como o roque e a promoção do peão.
+
+Objetivo Final: Capturar o rei inimigo (xeque-mate).
+
+Benefícios: Melhora a concentração e o raciocínio. 
+
+
+Origem desses dados: Brasil Escola.
