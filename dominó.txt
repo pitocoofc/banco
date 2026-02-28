@@ -1,0 +1,26 @@
+
+Clássico e atemporal, o dominó é um jogo de estratégia e sorte que utiliza um conjunto de 28 peças retangulares. 
+
+  🛠️ Como Funciona o Jogo
+Jogadores: Geralmente disputado por 2 a 4 pessoas.
+  
+Objetivo: Ser o primeiro a colocar todas as suas peças na mesa ou ter a menor pontuação caso o jogo "feche".
+  
+Início: Cada jogador recebe 7 peças. O jogador com a peça de maior valor (geralmente o "duplo seis" ou "carroção") começa a partida.
+  
+Mecânica: Os jogadores devem combinar os números das extremidades das suas peças com as que já estão na mesa. Se não tiver uma peça compatível, o jogador deve "comprar" do monte ou passar a vez, dependendo da variante. 
+
+  
+📚 Origem e Curiosidades
+Acredita-se que o dominó tenha surgido na China por volta do século XVI. Chegou à Europa através da Itália e espalhou-se pelo mundo, tornando-se um passatempo popular em diversas culturas. 
+
+  
+💻 Onde Jogar Online
+
+  Se não tiver um conjunto físico, pode praticar em plataformas como:
+
+Paciência.co: Versão gratuita para jogar no navegador.
+
+  MegaJogos: Oferece tutoriais e partidas multijogador. 
+
+    Fonte: Youtube, Wikipedia, Escola Brasil
