@@ -1,0 +1,20 @@
+O jogo de damas é um clássico de estratégia para dois jogadores, praticado num tabuleiro de casas claras e escuras onde o objetivo é capturar ou imobilizar todas as peças do adversário. 
+
+
+  
+Regras Principais
+  
+
+As partidas seguem normas específicas que garantem a dinâmica do jogo: 
+
+Movimentação: As peças (pedras) movem-se apenas uma casa na diagonal, sempre para a frente.
+
+Captura Obrigatória: Se houver oportunidade de capturar uma peça adversária, o jogador é obrigado a fazê-lo.
+
+Lei da Maioria: Se existirem vários caminhos de captura, deve-se escolher o que elimina o maior número de peças.
+
+A Dama: Quando uma pedra atinge a última linha oposta, torna-se uma "dama", ganhando a capacidade de se mover várias casas para frente ou para trás em linha reta nas diagonais.
+
+Empate: Declarado após 20 lances sucessivos apenas de damas, sem capturas ou movimento de pedras comuns
+
+Fonte: Brasil escola, Wikipedia
